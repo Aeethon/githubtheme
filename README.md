@@ -9,7 +9,7 @@
 ### Resumo
 
 ```css
-@import URL("https://aeethon.github.io/Github-Theme/githubtheme.css");
+@import URL("https://aeethon.github.io/githubtheme/githubtheme.css");
 ```
 
 <hr>
